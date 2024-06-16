@@ -2,8 +2,8 @@
 - 👀 I’m interested in electronic
 - 🌱 I’m currently learning arduino
 - 💞️ I’m looking to collaborate on 
-- 📫 How to reach me ...
-- 😄 Pronouns: ...
+- 📫 How to reach me ... no way
+- 😄 Pronouns: he/him
 - ⚡ Fun fact: international winner of robotics competitions
 
 <!---
