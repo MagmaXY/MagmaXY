@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @MagmaXY
 - 👀 I’m interested in electronic
 - 🌱 I’m currently learning arduino
-- 💞️ I’m looking to collaborate on 
+- 💞️ I’m looking to collaborate on robotechnic
 - 📫 How to reach me ... no way
 - 😄 Pronouns: he/him
 - ⚡ Fun fact: international winner of robotics competitions
