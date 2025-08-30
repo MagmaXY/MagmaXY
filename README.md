@@ -1,10 +1,10 @@
-- 👋 Hi, I’m @MagmaXY
-- 👀 I’m interested in electronic and minecraft
-- 🌱 I’m currently learning c++, java and python
-- 💞️ I’m looking to collaborate on robotechnic and gameplay
-- 📫 How to reach me ... no way
-- 😄 Pronouns: he/him
-- ⚡ Fun fact: international winner of robotics competitions
+- 👋 Привет, я @MagmaXY
+- 👀 Я интересуюсь в робототехнике и майнкрафте
+- 🌱 Я изучаю плюсы, питон и джаву
+- 💞️ Я готов коллаборироваться в программировании и играх
+- 📫 https://t.me/Dimagmad
+- 😄 Местоимения: он/его
+- ⚡ Интересный факт: Победитель международных соревнований по робототехнике
 - 👽 Skibidi dop dop yes yes
 <!---
 MagmaXY/MagmaXY is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
