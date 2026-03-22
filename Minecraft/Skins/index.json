@@ -1,0 +1,64 @@
+{
+    "skins": [
+        {
+            "capeId": "",
+            "model": "CLASSIC",
+            "name": "31f477eb1a7beee631c2ca64d06f8f68fa93a3386d04452ab27f43acdf1b60cb",
+            "url": "https://textures.minecraft.net/texture/31f477eb1a7beee631c2ca64d06f8f68fa93a3386d04452ab27f43acdf1b60cb"
+        },
+        {
+            "capeId": "64eacd79-e44b-4af4-a894-4f56f5844e2f",
+            "model": "CLASSIC",
+            "name": "3bf43a6d162bc0a455f85845bf39cdc05826e7f5b9fe3cac88e67d451e83e34b",
+            "url": "https://textures.minecraft.net/texture/3bf43a6d162bc0a455f85845bf39cdc05826e7f5b9fe3cac88e67d451e83e34b"
+        },
+        {
+            "capeId": "",
+            "model": "CLASSIC",
+            "name": "90ghj",
+            "url": ""
+        },
+        {
+            "capeId": "",
+            "model": "CLASSIC",
+            "name": "Anamorphy",
+            "url": ""
+        },
+        {
+            "capeId": "",
+            "model": "CLASSIC",
+            "name": "LordBuldak_",
+            "url": ""
+        },
+        {
+            "capeId": "64eacd79-e44b-4af4-a894-4f56f5844e2f",
+            "model": "CLASSIC",
+            "name": "MagmaXY_",
+            "url": "https://textures.minecraft.net/texture/229416fd230d0dcae9cc088deebb45e015914f8b7fe4505f010ce77c34b721ad"
+        },
+        {
+            "capeId": "",
+            "model": "CLASSIC",
+            "name": "Morpheus",
+            "url": ""
+        },
+        {
+            "capeId": "0a22d0fe-c126-45e3-959d-0908d5fa5830",
+            "model": "CLASSIC",
+            "name": "PlasmaXY",
+            "url": "https://textures.minecraft.net/texture/b88ae47f655564fc139da5816b676c6f6bfc83931aeb3bfa495e2ab75f14dbde"
+        },
+        {
+            "capeId": "b2b7e99f-e990-47eb-a26a-791c5d6228d3",
+            "model": "CLASSIC",
+            "name": "SatoruBuldak_",
+            "url": ""
+        },
+        {
+            "capeId": "",
+            "model": "CLASSIC",
+            "name": "Shaman9012",
+            "url": ""
+        }
+    ]
+}
