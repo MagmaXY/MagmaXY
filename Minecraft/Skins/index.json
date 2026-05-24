@@ -37,7 +37,7 @@
             "url": ""
         },
         {
-            "capeId": "0a22d0fe-c126-45e3-959d-0908d5fa5830",
+            "capeId": "",
             "model": "CLASSIC",
             "name": "PlasmaXY",
             "url": "https://textures.minecraft.net/texture/b88ae47f655564fc139da5816b676c6f6bfc83931aeb3bfa495e2ab75f14dbde"
@@ -52,6 +52,12 @@
             "capeId": "",
             "model": "CLASSIC",
             "name": "Shaman9012",
+            "url": ""
+        },
+        {
+            "capeId": "",
+            "model": "CLASSIC",
+            "name": "skin-8fd6",
             "url": ""
         }
     ]
