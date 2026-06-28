@@ -1,15 +1,45 @@
 {
     "skins": [
         {
+            "capeId": "64eacd79-e44b-4af4-a894-4f56f5844e2f",
+            "model": "CLASSIC",
+            "name": "102616f57a3bed7c702af0389d2f7b3e88471747048286f4ec9846e183323ada",
+            "url": "https://textures.minecraft.net/texture/102616f57a3bed7c702af0389d2f7b3e88471747048286f4ec9846e183323ada"
+        },
+        {
+            "capeId": "",
+            "model": "CLASSIC",
+            "name": "63455d7069b397c2",
+            "url": ""
+        },
+        {
+            "capeId": "b2b7e99f-e990-47eb-a26a-791c5d6228d3",
+            "model": "CLASSIC",
+            "name": "7770ac0d19798913af1997421a55cf495016ea3ddaaa24515834baef78d869da",
+            "url": "https://textures.minecraft.net/texture/7770ac0d19798913af1997421a55cf495016ea3ddaaa24515834baef78d869da"
+        },
+        {
             "capeId": "",
             "model": "CLASSIC",
             "name": "90ghj",
             "url": ""
         },
         {
+            "capeId": "64eacd79-e44b-4af4-a894-4f56f5844e2f",
+            "model": "CLASSIC",
+            "name": "Amplua",
+            "url": ""
+        },
+        {
             "capeId": "",
             "model": "CLASSIC",
             "name": "Anamorphy",
+            "url": ""
+        },
+        {
+            "capeId": "",
+            "model": "CLASSIC",
+            "name": "BeatriceTau",
             "url": ""
         },
         {
@@ -25,12 +55,6 @@
             "url": "https://textures.minecraft.net/texture/fccfe83c5771023ce5f759fa4e00523a50a7c831074833bb4d93ba57cd5fdf60"
         },
         {
-            "capeId": "64eacd79-e44b-4af4-a894-4f56f5844e2f",
-            "model": "CLASSIC",
-            "name": "Mask",
-            "url": "https://textures.minecraft.net/texture/300e3125c9cf8a84bf4d7c42d71b8673fdfc37b1cc2c2b8f85035c4f046adec1"
-        },
-        {
             "capeId": "",
             "model": "CLASSIC",
             "name": "Morpheus",
@@ -43,8 +67,14 @@
             "url": "https://textures.minecraft.net/texture/b88ae47f655564fc139da5816b676c6f6bfc83931aeb3bfa495e2ab75f14dbde"
         },
         {
-            "capeId": "b2b7e99f-e990-47eb-a26a-791c5d6228d3",
+            "capeId": "64eacd79-e44b-4af4-a894-4f56f5844e2f",
             "model": "CLASSIC",
+            "name": "RKN",
+            "url": ""
+        },
+        {
+            "capeId": "b2b7e99f-e990-47eb-a26a-791c5d6228d3",
+            "model": "SLIM",
             "name": "SatoruBuldak_",
             "url": ""
         },
@@ -52,6 +82,12 @@
             "capeId": "",
             "model": "CLASSIC",
             "name": "Shaman9012",
+            "url": ""
+        },
+        {
+            "capeId": "",
+            "model": "CLASSIC",
+            "name": "SubaruXY",
             "url": ""
         },
         {
